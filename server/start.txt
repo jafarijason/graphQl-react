@@ -1,0 +1,3 @@
+cd server
+npm run seed
+npm run start:slow
